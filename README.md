@@ -1,6 +1,7 @@
 # Cookbook
 A collection of recipes.
 ## List
+- [Beef Stew](https://github.com/calvached/cookbook/blob/master/recipes/beef_stew.md)
 - [Chipotle Brisket Tacos](https://github.com/calvached/cookbook/blob/master/recipes/chipotle_brisket_tacos.md)
 - [Greenbean Casserole](https://github.com/calvached/cookbook/blob/master/recipes/greenbean_casserole.md)
 - [Fried Porkchops](https://github.com/calvached/cookbook/blob/master/recipes/fried_porkchops.md)
