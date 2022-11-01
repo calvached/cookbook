@@ -1,6 +1,7 @@
 # Greenbean Casserole
 This was a big hit for Thanksgiving dinner (in part because of the bacon).
-##Ingredients:
+
+## Ingredients:
 1 lb bacon, cooked and crumbled  
 5 garlic cloves, chopped (or more if you like)  
 2 (8 ounce) packages fresh mushrooms, sliced  
@@ -13,7 +14,7 @@ This was a big hit for Thanksgiving dinner (in part because of the bacon).
 2 (16 ounce) cans of French-cut green beans, drained and squeezed of extra water  
 2 2/3 cups French's French fried onions  
 
-##Directions:
+## Directions:
 1. Sauté chopped garlic in the butter and olive oil, add mushrooms until mostly soft.
 1. Set aside to cool.
 1. When cooled, drain off extra liquid.

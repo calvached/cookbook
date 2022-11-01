@@ -9,3 +9,4 @@ A collection of recipes.
 - [Korean BBQ Short Ribs](https://github.com/calvached/cookbook/blob/master/recipes/korean_bbq_shortribs.md)
 - [Spanish Flan](https://github.com/calvached/cookbook/blob/master/recipes/spanish_flan.md)
 - [Spicy Tuna Onigiri](https://github.com/calvached/cookbook/blob/master/recipes/spicy_tuna_onigiri.md)
+- [Spicy Spaghetti](https://github.com/calvached/cookbook/blob/master/recipes/spicy_spaghetti.md)

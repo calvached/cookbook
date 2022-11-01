@@ -1,7 +1,7 @@
-#Chipotle Brisket Tacos
+# Chipotle Brisket Tacos
 Cheap and easy to make tacos! (need I say more?)
 
-##Ingredients:
+## Ingredients:
 1 1/2 lbs of brisket  
 Corn Tortillas  
 Adobo  
@@ -17,11 +17,11 @@ Black pepper (to taste)
 4 bay leaves (whole)  
 limes or lime juice  
 
-##Directions:
+## Directions:
 1. Season the brisket with Adobo and coriander then place in the slow cooker.
 1. Place all the remaining ingredients, inside the slow cooker around the brisket.
 1. Set cooker on low for 8-10 hours.
 1. Serve on corn tortillas with Chihuahua cheese, cilantro and lime.
 
-##Notes
+## Notes
 This is a mild to medium spice recipe, add cayenne pepper or sriracha to make it spicier.

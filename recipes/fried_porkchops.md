@@ -1,12 +1,15 @@
-#Fried Porkchops
+# Fried Porkchops
 Quick receipe for when I don't feel like getting fancy. Everything is "to taste" in this one, use your best judgement.
-##Ingredients:
+
+## Ingredients:
 Flour  
 Cayenne Pepper  
 Ground Black Pepper  
 Salt  
 Thin cut pork chops  
-##Directions:
+Butter (or butter alternative)
+
+## Directions:
 1. In a plate combine flour, cayenne pepper, and black pepper.
 1. Season the pork chops with salt and pepper then completely cover the pork chops with the flour mixture.
 1. Shake off any excess flour and set aside.
